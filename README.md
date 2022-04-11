@@ -8,3 +8,4 @@
 💻 Website: https:/gkdev.org
 
 Used Technology - HTML5 and CSS3 with Bootstrap framework.
+HTML5 & CSS3 - VALIDATED.
